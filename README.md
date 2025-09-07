@@ -28,4 +28,4 @@
 ## Assumptions 
 
 - Tested on MySQL 8 and Java 8+.
-- The MySQL server must be running on `localhost:3306`.
+- The MySQL server must be running on `127.0.0.1:3306`.
